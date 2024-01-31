@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recept Kezelő</string>
+    <string name="rendes">Rendes</string>
+    <string name="glutenmentese">Gluténmentes</string>
+    <string name="vegan">Vegán</string>
+    <string name="name">Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="description">Description</string>
+    <string name="new_item">New Shopping Item</string>
+    <string name="type">Type</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
